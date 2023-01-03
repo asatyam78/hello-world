@@ -40,7 +40,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<image>
-					<name>docker.io/asatyam78/${project.artifactID}:latest</name>
+					<name>docker.io/asatyam78/${project.artifactId}:latest</name>
 					</image>
 				</configuration>
 			</plugin>
